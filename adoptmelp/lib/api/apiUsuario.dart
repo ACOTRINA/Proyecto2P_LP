@@ -1,6 +1,7 @@
 import 'dart:convert';
-import 'package:adoptmelp/modelos/usuario.dart';
 import 'package:http/http.dart' as http;
+
+import '../modelos/usuario.dart';
 
 class UsuarioProvider {
 

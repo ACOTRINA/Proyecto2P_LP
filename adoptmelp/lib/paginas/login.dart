@@ -1,10 +1,10 @@
-// import 'package:adoptme_app/api/apiUsuario.dart';
-// import 'package:adoptme_app/modelos/usuario.dart';
-// import 'package:adoptme_app/paginas/menu.dart';
-// import 'package:adoptme_app/paginas/registrar.dart';
-import 'package:adoptmelp/api/apiUsuario.dart';
-import 'package:adoptmelp/modelos/usuario.dart';
+
 import 'package:flutter/material.dart';
+
+import '../api/apiUsuario.dart';
+import '../modelos/usuario.dart';
+import 'menu.dart';
+import 'registrar.dart';
 
 class LoginPage extends StatefulWidget{
   static String id = "login_page";

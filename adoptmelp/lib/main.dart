@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:adoptmelp/paginas/login.dart';
+
+import 'paginas/login.dart';
 
 void main() {
   runApp(MaterialApp(

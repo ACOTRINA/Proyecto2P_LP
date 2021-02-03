@@ -1,12 +1,13 @@
 
-import 'package:adoptme_app/paginas/adopcionForm.dart';
-import 'package:adoptme_app/paginas/adoptarForm.dart';
 import 'package:adoptme_app/paginas/perfil.dart';
 import 'package:flutter/material.dart';
+
 import '../api/apiMascota.dart';
-import '../../../../../AndroidStudioProjects/adoptmelp/lib/modelos/usuario.dart';
 import '../modelos/mascota.dart';
-import '../../../../../AndroidStudioProjects/adoptmelp/lib/paginas/login.dart';
+import '../modelos/usuario.dart';
+import 'adopcionForm.dart';
+import 'adoptarForm.dart';
+import 'login.dart';
 
 
 class Menu extends StatefulWidget {

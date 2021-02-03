@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'package:adoptme_app/modelos/mascota.dart';
 import 'package:flutter/cupertino.dart';
 
 import '../modelos/formAdopcion.dart';
