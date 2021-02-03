@@ -18,5 +18,5 @@ class MascotaProvider{
     return mascotas;
   }
 
-  
+
 }
